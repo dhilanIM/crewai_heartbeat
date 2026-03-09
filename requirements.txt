@@ -1,0 +1,6 @@
+crewai==1.9.3
+crewai-tools
+python-dotenv
+requests
+nest-asyncio
+pytest
